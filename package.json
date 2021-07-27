@@ -1,0 +1,11 @@
+{
+  "name": "hackathon-cards",
+  "version": "1.0.0",
+  "description": "hackathon project - memory ",
+  "main": "index.js",
+  "author": "abi scholz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
