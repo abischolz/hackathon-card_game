@@ -1,0 +1,10 @@
+.gamePlayArea {
+  box-sizing: content-box;
+  border-style: dotted;
+  border-color: blue;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+}
